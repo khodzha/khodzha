@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🤔 I’m looking for help with deeper understanding of rust
 - 📫 How to reach me: via email `khodzha <dot> sh <at> gmail <dot> com` or telegram `<at> khodzha`
 - 🔭 I’m currently working on [ruq](https://github.com/khodzha/ruq) - MQTTv5 client library in rust
 
