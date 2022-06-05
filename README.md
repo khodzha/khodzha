@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📫 How to reach me: via email `khodzha <dot> sh <at> gmail <dot> com` or telegram `<at> khodzha`
-- 🔭 I’m currently working on [ruq](https://github.com/khodzha/ruq) - MQTTv5 client library in rust
 
 - Contributions:
   * [servo-media](https://github.com/servo/media/commits?author=khodzha): WaveShaper and IIR Filter nodes implementation, global mute per tab
